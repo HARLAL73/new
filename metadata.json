@@ -1,0 +1,6 @@
+{
+  "name": "BM CARE",
+  "description": "BM CARE Wholesale Mobile Spare Parts — Sab Kuch Ek Jagah. B2B web platform with real-time Firebase sync, permanent product links, and order dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

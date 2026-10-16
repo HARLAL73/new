@@ -1,0 +1,7 @@
+node_modules/
+.build-outputs/
+.aistudio/
+*.tmp
+test_syntax.js
+build_fx.py
+.DS_Store
